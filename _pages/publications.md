@@ -8,7 +8,7 @@ author_profile: true
 
 ## Preprints & Under Review
 
-- Self-Supervised Super-Resolution for Sentinel-5P Hyperspectral Images, **H. O. Ali**, A. Crosnier, R. Abraham, B. Combelles, F. Jégou, B. Galerne, *Submitted*, 2026.  [[Preprint]](https://arxiv.org/abs/2604.17652) [[Code]]([GITHUB_LINK](https://github.com/hyamomar/Sentinel-5P-Super-Resolution/tree/main/self_supervised)) 
+- Self-Supervised Super-Resolution for Sentinel-5P Hyperspectral Images, **H. O. Ali**, A. Crosnier, R. Abraham, B. Combelles, F. Jégou, B. Galerne, *Submitted*, 2026.  [[Preprint]](https://arxiv.org/abs/2604.17652) [[Code]](https://github.com/hyamomar/Sentinel-5P-Super-Resolution/tree/main/self_supervised)) 
 
 - AI for Mycetoma Diagnosis in Histopathological Images: The MICCAI 2024 Challenge, **H. O. Ali**, S. Alhesseen, L. Elkhair, A. Galdran, A. Fahal, R. Jennane et al., *Submitted*, 2026. [[Paper]]([LINK](https://arxiv.org/abs/2512.21792))
 
