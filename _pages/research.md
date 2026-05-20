@@ -5,10 +5,7 @@ author_profile: false
 ---
 My research lies at the intersection of **AI, computer vision, computational imaging, and applied mathematics**, with applications in **medical imaging and Earth observation**.
 
-During my **PhD**, I developed AI methods for the analysis of histopathological images, focusing on segmentation, classification, and computational approaches for neglected tropical diseases. This work led to research on **computer-aided diagnosis, medical datasets, and AI applications for healthcare**.
-
-## Medical AI & Computational Pathology
-My PhD research focused on developing computational methods for:
+During my **PhD (Medical AI & Computational Pathology)**, I developed AI methods for the analysis of histopathological images, focusing on segmentation, classification, and computational approaches for neglected tropical diseases. This work led to research on **computer-aided diagnosis, medical datasets, and AI applications for healthcare**. My research focused on developing computational methods for:
 - Histopathological image segmentation and classification  
 - Diagnostic support systems  
 - Computational pathology  
@@ -19,10 +16,7 @@ Representative work:
 - [MICCAI Challenge on AI for Mycetoma Diagnosis](/projects/)
 
 
-In my current **postdoctoral research**, I investigate **hyperspectral image super-resolution and computational imaging for satellite observations**, developing lightweight and resource-efficient machine learning methods for **Sentinel-5P** and environmental monitoring applications.
-
-## Hyperspectral Imaging & Earth Observation
-My current work includes:
+In my current **postdoctoral research (Earth Observation)**, I investigate **hyperspectral image super-resolution and computational imaging for satellite observations**, developing lightweight and resource-efficient machine learning methods for **Sentinel-5P** and environmental monitoring applications. My current work includes:
 - Sentinel-5P super-resolution  
 - Image reconstruction and enhancement  
 - Hyperspectral image analysis  
