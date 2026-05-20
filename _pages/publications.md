@@ -20,7 +20,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
-- MyData: A Comprehensive Database of Mycetoma Tissue Microscopic Images for Histopathological Analysis, **H. O. Ali**, R. Abraham, G. Beaumeunier, A. M. Fahal, C. Tauber, *Machine Learning for Biomedical Imaging*, 2025. [[Paper]](https://www.melba-journal.org/pdf/2025:045.pdf) [[Data]](https://zenodo.org/records/13655082)
+- MyData: A Comprehensive Database of Mycetoma Tissue Microscopic Images for Histopathological Analysis, **H. O. Ali**, R. Abraham, G. Beaumeunier, A. M. Fahal, C. Tauber, *Machine Learning for Biomedical Imaging*, 2025. [[Paper]](https://www.melba-journal.org/pdf/2025:045.pdf) [[Data]](https://zenodo.org/records/13655082) [[Project]](/projects/#miccai-challenge--medical-image-analysis--scientific-leadership)
 
 - The Use of Artificial Intelligence to Improve Mycetoma Management, **H. O. Ali**, L. Y. M. Elkheir, A. H. Fahal, *PLOS Neglected Tropical Diseases*, 2024. [[Paper]](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011914)
 
