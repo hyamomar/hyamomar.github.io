@@ -7,31 +7,33 @@ My research lies at the intersection of **AI, computer vision, computational ima
 
 During my **PhD**, I developed AI methods for the analysis of histopathological images, focusing on segmentation, classification, and computational approaches for neglected tropical diseases. This work led to research on **computer-aided diagnosis, medical datasets, and AI applications for healthcare**.
 
-### Medical AI & Computational Pathology
+## Medical AI & Computational Pathology
 My PhD research focused on developing computational methods for:
 - Histopathological image segmentation and classification  
 - Diagnostic support systems  
 - Computational pathology  
-- AI for neglected tropical diseases  
+- AI for neglected tropical diseases
+  
 Representative work:
 - [Computer-Aided Diagnosis for Mycetoma](/projects/)
 - [MICCAI Challenge on AI for Mycetoma Diagnosis](/projects/)
 
----
+
 In my current **postdoctoral research**, I investigate **hyperspectral image super-resolution and computational imaging for satellite observations**, developing lightweight and resource-efficient machine learning methods for **Sentinel-5P** and environmental monitoring applications.
 
-### Hyperspectral Imaging & Earth Observation
+## Hyperspectral Imaging & Earth Observation
 My current work includes:
 - Sentinel-5P super-resolution  
 - Image reconstruction and enhancement  
 - Hyperspectral image analysis  
 - Environmental monitoring  
 - Greenhouse gas estimation  
+
 Representative projects:
 - [JUNON — Sentinel-5P Super-Resolution](/projects/)
 - [ECO-SUD](/projects/)
 
----
+
 Although these domains differ in application, my research is unified by the development of **robust and interpretable computational methods for scientific image analysis**, addressing problems involving **image reconstruction, enhancement, segmentation, and diagnostic support**. My interests:
 - Computational imaging and AI for scientific imaging  
 - Image reconstruction and super-resolution  
