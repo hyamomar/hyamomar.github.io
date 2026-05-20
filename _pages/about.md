@@ -27,7 +27,7 @@ Feel free to contact me about collaborations, teaching opportunities, or interdi
 ## News
 
 ### 2026
-- Presented at EGU 2026
+- Presented at EGU
 - Submitted *Self-Supervised Super-Resolution for Sentinel-5P Hyperspectral Images*
 - Submitted *AI for Mycetoma Diagnosis in Histopathological Images: The MICCAI 2024 Challenge*
 
@@ -36,7 +36,9 @@ Feel free to contact me about collaborations, teaching opportunities, or interdi
 - Awarded First Prize, Australian Climate Challenge
 
 ### 2024
-- Organised MICCAI Challenge on AI for Mycetoma Diagnosis
+- Presented at MICCAI
+- Organised a Challenge on AI for Mycetoma Diagnosis
+- Started my Postdoc
 
 ### 2023
 - PhD defence
