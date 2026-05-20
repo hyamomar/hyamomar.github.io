@@ -8,10 +8,10 @@ Selected projects spanning AI, computational imaging, remote sensing, and medica
 
 ## Featured Projects
 
-### [JUNON — Sentinel-5P Super-Resolution](https://github.com/hyamomar/Sentinel-5P-Super-Resolution)
+### [JUNON — Sentinel-5P Super-Resolution](https://www.junon-cvl.fr/fr)
 **Centre-Val de Loire, France**
 
-Development of lightweight and self-supervised deep learning methods for **hyperspectral image super-resolution**, computational imaging, and Earth observation applications.
+Development of deep learning methods for **hyperspectral image super-resolution**, computational imaging, and Earth observation applications.
 
 Topics:
 - Sentinel-5P super-resolution
@@ -49,9 +49,7 @@ Outputs:
 ### [Computer-Aided Diagnosis for Mycetoma (PhD Research)](https://theses.hal.science/tel-04244540v1/file/2023ORLE1006_va.pdf)
 **France & Sudan**
 
-PhD research on **AI methods for histopathological image analysis**, focusing on segmentation, classification, and computational pathology for mycetoma diagnosis.
-
-Associated outputs include datasets, diagnostic models, and epidemiological studies.
+PhD research on **AI methods for histopathological image analysis**, focusing on segmentation, classification, and computational pathology for mycetoma diagnosis. Associated outputs include datasets and diagnostic models.
 
 Representative outputs:
 
