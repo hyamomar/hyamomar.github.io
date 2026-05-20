@@ -23,25 +23,25 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Hyam_photo.png"
   name             : "Hyam ALI"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher working at the intersection of AI, remote sensing, medical imaging and mathematical sciences."
-  location         : "Orleans, France"
-  employer         : "Orelans University"
+  bio              : "Postdoctoral researcher specializing in AI-driven scientific imaging, computer vision, and machine learning. My work develops computational methods for image analysis across domains, with applications in medical imaging, remote sensing, and environmental monitoring."
+  location         : "France"
+  employer         : "University of Orleans"
   uri              : # URL
   email            : "hyam.omar22@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=tukKGQgAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6927-1525" 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "https://www.linkedin.com/in/hyam-ali-68623892/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
