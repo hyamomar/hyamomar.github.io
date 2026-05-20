@@ -6,82 +6,73 @@ author_profile: false
 
 ## Awards, Fellowships & Grants
 
-**2025**
-- First Prize — Australian Climate Challenge, IGARSS
+### 2025
+- **First Prize** — Australian Climate Challenge, IGARSS
 
-**2024**
-- Grant in Medical Imaging — Fairness of AI
+### 2024
+- **Grant in Medical Imaging** — Fairness of AI
 
-**2022**
-- Award — Top Ten Pioneers in Deep Learning, Deep Learning Indaba
+### 2022
+- **Award** — Top Ten Pioneers in Deep Learning, Deep Learning Indaba
 
-**2021**
-- Fellowship & Grant — L'Oréal–UNESCO For Women in Science  
-- Grant — European Mathematical Society  
+### 2021
+- **Fellowship & Grant** — L'Oréal–UNESCO For Women in Science (Young Talents)  
+- **Grant** — European Mathematical Society
 
-**2018**
-- Youth Research Grant — Sudanese Ministry of Scientific Research  
-- Doctoral Scholarship — French Embassy in Sudan  
+### 2018
+- **Youth Research Grant** — Sudanese Ministry of Scientific Research  
+- **Doctoral Scholarship** — French Embassy in Sudan
 
-**2016–2015**
-- Prize — CoDAHMA Hackathon, Ghana  
-- First Speaker Prize — Toastmasters Club, Ghana  
-- Scholarship — AIMS Ghana (Mastercard Foundation)  
+### 2016–2015
+- **Prize** — CoDAHMA Hackathon, Ghana  
+- **First Speaker Prize** — Toastmasters Club, Ghana  
+- **Scholarship** — AIMS Ghana (Mastercard Foundation)
 
-**2008**
-- Scholarship — Undergraduate Studies, Sudanese Government  
+### 2008
+- **Scholarship** — Undergraduate Studies, Sudanese Government
 
----
 
 ## Academic Service & Leadership
 
-Leadership and service activities include:
+- **Founder** — Mathematical Consulting Unit, University of Khartoum (2023–On Hold)
+- **eLearning Committee** — University of Khartoum (2020)
+- **Research Office Committee** — University of Khartoum (2017–2018)
+- **Curriculum Development Committee** — University of Khartoum (2017–2018)
+- **Undergraduate Projects Coordinator** — University of Khartoum (2016–2018)
+- **Exams Office Committee** — University of Khartoum (2016–2017)
+- **Department Secretary (Pure Mathematics)** — University of Khartoum (2016)
+- **Numerical Analysis Examiner** — MSc Computational Mathematics (2018)
 
-- Founder — Mathematical Consulting Unit, University of Khartoum  
-- eLearning Committee  
-- Curriculum Development Committee  
-- Research Office Committee  
-- Undergraduate Projects Coordination  
-- Examination responsibilities  
-- Department Secretary (Pure Mathematics)
 
----
 
 ## Conferences & Scientific Engagement
 
-Selected contributions include:
+- **MICCAI** — Challenge organizer, oral presentation (first author), panel member (Open Data discussion)
+- **IGARSS** — Presentation; Summer School participant
+- **EGU** — Presentation
+- **WHO / World Skin Health Day** — Invited talk
+- **Deep Learning Indaba** — Poster presentation
+- **Mycetoma Symposium** — Presentation
+- **AFRICAI Summer School** — Participant
 
-- **MICCAI**
-  - Challenge organizer
-  - Oral presentation
-  - Panel member (Open Data discussion)
-
-- **IGARSS**
-  - Conference presentation
-  - Summer School participant
-
-- **EGU**
-  - Presentation
-
-- **WHO / World Skin Health Day**
-  - Invited talk
-
-- **Deep Learning Indaba**
-  - Poster presentation
-
----
 
 ## Workshops & Professional Development
 
-Selected workshops in:
+**Research & Scientific Communication**
 
-- AI & Scientific Imaging  
-- Research Communication  
-- Responsible Research  
-- Leadership & Management  
-- Policy Engagement  
+- Proposal & Research Writing
+- Presentations & Communication Skills
+- Responsible Research & Policy Engagement
+- Media Training
+- Leadership & Management
+- Negotiation & Partnership Building
 
-Instructor roles:
+**AI & Scientific Imaging**
 
-- Python & Unix Workshop — Software Carpentry  
+- AI Workshop on Inverse Problems, Learning and Imaging (AI Wild West)
+- Artificial Intelligence for the Image Workshop (IHP)
+
+**Instructor Roles**
+
+- Python & Unix Workshop — Software Carpentry
 - LaTeX for Scientific Writing Workshop
