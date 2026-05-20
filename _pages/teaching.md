@@ -4,64 +4,45 @@ title: "Teaching"
 author_profile: false
 ---
 
-# Teaching & Mentoring
+My teaching experience has primarily focused on **mathematics and quantitative foundations**, with applications to engineering, computing, and emerging AI-related disciplines.
 
-## Teaching Philosophy
-
-My teaching approach emphasizes connecting mathematical foundations with practical applications in science, computing, and artificial intelligence. I aim to help students develop conceptual understanding alongside analytical and problem-solving skills.
-My teaching experience has primarily focused on mathematical foundations and quantitative methods, with strong connections to computing, data science, and artificial intelligence applications.
-I am particularly interested in interdisciplinary teaching that bridges mathematics, computation, and real-world applications.
-
----
+I have more than ten years of experience in higher education teaching and mentoring, with interests in connecting mathematical concepts to computational methods and real-world applications.
 
 ## Teaching Areas
+### Mathematics & Quantitative Foundations
 
-### Mathematics 
-- Calculus 
-- Differential Equations
-- Linear Algebra & Vector Analysis
-- Algebra, Analytical Geometry & Abstract Algebra
-- Numerical Analysis & Computational Mathematics
-- Discrete Mathematics & Graph Theory
-- Mathematics for Engineering and Pharmacy students
+Courses taught include:
+
+- Calculus and Differential Equations  
+- Linear Algebra & Vector Analysis  
+- Algebra, Analytical Geometry & Abstract Algebra  
+- Numerical Analysis & Computational Mathematics  
+- Discrete Mathematics & Graph Theory  
+- Mathematics for Engineering and Pharmacy students  
 
 ### Computing & Computational Methods
-- Fundamentals of Programming
-- Programming for Scientific Computing
-- Computational Thinking
-- Numerical Computing
 
-### Emerging Interests & Interdisciplinary Teaching
+Teaching and training experience includes:
+
+- Fundamentals of Programming  
+- Programming for Scientific Computing  
+- Computational Thinking  
+- Numerical Computing  
+
+### Educational Interests
+
 I am interested in teaching courses related to:
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Data Science
-- Scientific Computing
-- Computational Imaging
 
----
+- Artificial Intelligence  
+- Machine Learning  
+- Computer Vision  
+- Data Science  
+- Scientific Computing  
+- Computational Imaging  
 
-## Teaching Contexts
+## Mentoring & Supervision
+- **Master Project Supervision** — University of Orléans (2025–2026)  
+- **Undergraduate Project Supervision** — University of Khartoum (2024)  
+- **Undergraduate Project Examination** — University of Khartoum (2021)  
 
-Teaching experience has included:
-
-- Undergraduate mathematics education
-- Mathematics for engineering students
-- Mathematics for pharmacy students
-- Quantitative foundations supporting computing and AI-related disciplines
-
----
-
-## Supervision & Mentoring
-
-### University of Orléans
-- Master Project Supervision (2025–2026)
-
-### University of Khartoum
-- Undergraduate Project Supervision (2024)
-- Undergraduate Project Examiner (2021)
-
-I have also contributed to mentoring students through project supervision and research support.
-
----
+I have also contributed to curriculum-related activities, mentoring, and student support within higher education.
