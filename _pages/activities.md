@@ -1,10 +1,8 @@
 ---
 permalink: /activities/
 title: "Activities"
-author_profile: true
+author_profile: false
 ---
-
-# Activities
 
 ## Awards, Fellowships & Grants
 
