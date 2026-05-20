@@ -1,10 +1,8 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+author_profile: false
 ---
-
-# Publications
 
 ## Preprints & Under Review
 
