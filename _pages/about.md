@@ -27,3 +27,11 @@ I am particularly interested in:
 - Applied mathematics
 - Data science
 - Interdisciplinary teaching connecting theory and applications
+
+## Selected Highlights
+
+- More than 10 years of teaching and mentoring experience
+- Postdoctoral researcher at University of Orléans
+- Research spanning AI, medical imaging, and remote sensing
+- Presented work at IGARSS 2025
+- International academic experience across Sudan, Ghana, and France
