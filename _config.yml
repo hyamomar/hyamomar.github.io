@@ -27,8 +27,8 @@ author:
   name             : "Hyam ALI"
   pronouns         : # example: "she/her"  
   bio              : #"Postdoctoral researcher specializing in AI, computer vision, and computational imaging. My work develops machine learning methods for image analysis across domains, with applications in medical imaging and remote sensing."
-  location         : "France"
-  employer         : "University of Orleans"
+  location         : #"France"
+  employer         : #"University of Orleans"
   uri              : # URL
   email            : "hyam [dot] omar22 [at] gmail [dot] com" 
 
