@@ -1,84 +1,50 @@
 ---
 permalink: /research/
 title: "Research"
-author_profile: true
+author_profile: false
 ---
+My research lies at the intersection of **AI, computer vision, computational imaging, and applied mathematics**, with applications in **medical imaging and Earth observation**.
 
-My research combines mathematical modeling, computational methods, and AI to address challenges in scientific image analysis.
+During my **PhD**, I developed AI methods for the analysis of histopathological images, focusing on segmentation, classification, and computational approaches for neglected tropical diseases. This work led to research on **computer-aided diagnosis, medical datasets, and AI applications for healthcare**.
 
-I develop machine learning approaches for image reconstruction, enhancement, segmentation, and analysis across domains, including healthcare and Earth observation.
-
-My work bridges applied mathematics, computer vision, remote sensing, and medical imaging, with a focus on interpretable and resource-efficient AI methods.
-
----
-
-# Interdisciplinary Perspective
-
-My research is motivated by problems that require the integration of theory, computational techniques, and domain expertise. I am interested in collaborations across:
-- Artificial intelligence
-- Applied mathematics
-- Medical sciences
-- Remote sensing & environmental science
-- Computational biology
-- Scientific computing
-
-# Research Themes
-
-## Computational Imaging & Image Reconstruction
-
-Development of computational methods for:
-- Image reconstruction
-- Super-resolution
-- Enhancement techniques
-- Inverse problems
-- Hyperspectral imaging
-- Scientific imaging
-
+### Medical AI & Computational Pathology
+My PhD research focused on developing computational methods for:
+- Histopathological image segmentation and classification  
+- Diagnostic support systems  
+- Computational pathology  
+- AI for neglected tropical diseases  
 Representative work:
-- Sentinel-5P super-resolution
+- [Computer-Aided Diagnosis for Mycetoma](/projects/)
+- [MICCAI Challenge on AI for Mycetoma Diagnosis](/projects/)
 
 ---
+In my current **postdoctoral research**, I investigate **hyperspectral image super-resolution and computational imaging for satellite observations**, developing lightweight and resource-efficient machine learning methods for **Sentinel-5P** and environmental monitoring applications.
 
-## Medical Imaging & AI for Healthcare
-
-Machine learning and deep learning approaches for:
-- Histopathological image analysis
-- Segmentation
-- Classification
-- Diagnostic support systems
-- Computational pathology
-
-Applications:
-- Mycetoma diagnosis
-- Neglected tropical diseases
-- Medical image datasets
-
+### Hyperspectral Imaging & Earth Observation
+My current work includes:
+- Sentinel-5P super-resolution  
+- Image reconstruction and enhancement  
+- Hyperspectral image analysis  
+- Environmental monitoring  
+- Greenhouse gas estimation  
 Representative projects:
-- Computer-Aided Diagnosis for Mycetoma
-- MICCAI Challenge
+- [JUNON — Sentinel-5P Super-Resolution](/projects/)
+- [ECO-SUD](/projects/)
 
 ---
+Although these domains differ in application, my research is unified by the development of **robust and interpretable computational methods for scientific image analysis**, addressing problems involving **image reconstruction, enhancement, segmentation, and diagnostic support**. My interests:
+- Computational imaging and AI for scientific imaging  
+- Image reconstruction and super-resolution  
+- Hyperspectral image analysis and Earth observation  
+- Medical image analysis and computational pathology  
+- Resource-efficient and self-supervised learning  
+- Applied mathematics for AI and imaging  
 
-## Remote Sensing & Earth Observation
+I am interested in extending my research toward:
+- Foundation models for scientific imaging  
+- Multimodal AI  
+- Scientific machine learning  
+- Resource-efficient learning  
+- AI for environmental and healthcare challenges  
 
-AI methods for analysis of:
-- Hyperspectral images
-- Satellite observations
-- Environmental monitoring
-- Greenhouse gas estimation
-- Earth observation systems
-
-Representative projects:
-- JUNON
-- ECO-SUD
-
----
-
-# Future Directions
-
-I aim to expand research toward:
-
-- Foundation models for scientific imaging
-- Multimodal scientific AI
-- Resource-efficient learning
-- AI for environmental and healthcare challenges
+I welcome collaborations across **AI, applied mathematics, medical sciences, remote sensing, and scientific computing**.
