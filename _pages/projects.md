@@ -57,7 +57,7 @@ Representative outputs:
 
 [[Thesis]](https://theses.hal.science/tel-04244540v1/file/2023ORLE1006_va.pdf) ·
 [[MyData]](https://www.melba-journal.org/pdf/2025:045.pdf) ·
-[[PLOS NTD]](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011914)
+[[Paper]](https://pubmed.ncbi.nlm.nih.gov/38088215/)
 
 ---
 
