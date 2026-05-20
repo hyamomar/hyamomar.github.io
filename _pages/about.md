@@ -6,12 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a postdoctoral researcher at the University of Orléans, working at the intersection of AI, computer vision, and computational imaging, with applications in remote sensing and medical imaging.
 
-I am a postdoctoral researcher at the University of Orléans, working at the intersection of artificial intelligence, computer vision, and computational imaging, with applications in remote sensing and medical imaging.
+My research develops deep learning methods for image enhancement, segmentation, classification, and analysis across scientific domains. I am particularly interested in resource-efficient and interpretable AI approaches for challenging imaging problems.
 
-My research develops machine learning methods for image reconstruction, enhancement, segmentation, and analysis across scientific domains. I am particularly interested in resource-efficient and interpretable AI approaches for challenging imaging problems.
+Alongside research, I have more than ten years of experience in higher education teaching, mentoring, and curriculum-related activities across mathematics, quantitative methods, and computing foundations. My background spans mathematics, AI, and interdisciplinary scientific applications, with academic experience across Sudan, Ghana, and France.
 
-My background spans mathematics, artificial intelligence, and interdisciplinary scientific applications, with research and teaching experience across Sudan, Ghana, and France.
+I am interested in bridging research and education by developing computational methods while contributing to teaching, supervision, and interdisciplinary training.
 
 ---
 
@@ -25,6 +26,23 @@ My background spans mathematics, artificial intelligence, and interdisciplinary 
 
 More details: [Research](/research/) · [Projects](/projects/) · [Publications](/publications/)
 
+---
+
+## Teaching & Mentoring
+
+My teaching experience has focused primarily on mathematics and related disciplines supporting engineering, computing, and AI-related disciplines.
+
+Teaching areas include:
+- Calculus & Differential Equations
+- Linear Algebra & Vector Analysis
+- Numerical Analysis & Computational Mathematics
+- Discrete Mathematics & Graph Theory
+- Programming Foundations
+- Mathematics for Engineering and Pharmacy students
+
+I have also contributed to student supervision, project mentoring, curriculum activities, and technical workshops.
+
+More: [Teaching](/teaching/)
 ---
 
 ## Selected Highlights
