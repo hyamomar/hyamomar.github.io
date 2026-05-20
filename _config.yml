@@ -24,7 +24,7 @@ repository               : "hyamomar/hyamomar.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hyam ALI"
+  name             : #"Hyam ALI"
   pronouns         : # example: "she/her"  
   bio              : #"Postdoctoral researcher specializing in AI, computer vision, and computational imaging. My work develops machine learning methods for image analysis across domains, with applications in medical imaging and remote sensing."
   location         : #"France"
