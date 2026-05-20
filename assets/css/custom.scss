@@ -1,0 +1,81 @@
+---
+# Only the main Sass file needs front matter
+---
+
+/* ===========================
+   Typography & readability
+=========================== */
+
+.page__content {
+    font-size: 0.95em;
+    line-height: 1.8;
+}
+
+/* Reduce heading heaviness */
+
+.page__content h2 {
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+    border-bottom: none;
+}
+
+.page__content h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Softer horizontal lines */
+
+.page__content hr {
+    opacity: 0.2;
+}
+
+
+/* ===========================
+   Sidebar appearance
+=========================== */
+
+.author__bio {
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+
+.author__urls {
+    font-size: 0.85em;
+}
+
+
+/* ===========================
+   Narrower content block
+=========================== */
+
+.page {
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+/* ===========================
+   Navigation bar
+=========================== */
+
+.masthead {
+    padding: 0.5em 0;
+}
+
+.greedy-nav a {
+    font-size: 0.9em;
+}
+
+
+/* ===========================
+   General spacing
+=========================== */
+
+.archive {
+    margin-top: 1em;
+}
+
+.page__content p {
+    margin-bottom: 1.2em;
+}
