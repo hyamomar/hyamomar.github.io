@@ -1,49 +1,29 @@
 ## About Me
 
-I am a postdoctoral researcher at the University of Orléans specializing in AI, computer vision, and computational imaging. My work focuses on developing machine learning methods for image analysis across domains, with applications in remote sensing and medical imaging.
+I am a postdoctoral researcher at the University of Orléans specializing in artificial intelligence, computer vision, and computational imaging. My research develops machine learning methods for image analysis and reconstruction, with applications in medical imaging and remote sensing.
 
-My research interests include:
+My academic background spans mathematics, computer science, and artificial intelligence, enabling interdisciplinary work across methodological development and domain-specific applications. My interests include image enhancement, super-resolution, hyperspectral imaging, trustworthy AI, and scientific image analysis.
 
-- Computer vision and machine learning
-- Computational imaging
-- Hyperspectral image analysis
-- Image super-resolution
-- Medical image analysis
-- Remote sensing and Earth observation
+Alongside research, I have more than ten years of experience in higher education teaching and mentoring across mathematics, computer science, and data science. I have taught and supervised students in diverse academic environments, with international experience spanning Sudan, Ghana, and France.
 
-
-I have more than ten years of experience in teaching and research across mathematics, computer science, and artificial intelligence, with international experience spanning Sudan, Ghana, and France.
-
-My goal is to develop AI methods that address real-world challenges in healthcare and environmental monitoring.
-
+I am interested in bridging research and education by developing AI methods while contributing to teaching, supervision, and interdisciplinary training.
 
 ## Research Interests
 
-### AI & Computer Vision
-Developing machine learning methods for image understanding and enhancement.
-
-### Medical Imaging
-Segmentation, image analysis, and AI applications for healthcare.
-
-### Remote Sensing
-Hyperspectral imaging, Earth observation, environmental monitoring.
-
-### Computational Imaging
-Image super-resolution and scientific image reconstruction.
+- AI & Machine Learning  
+- Computer Vision  
+- Computational Imaging  
+- Medical Imaging  
+- Remote Sensing and Earth Observation  
 
 
-## News
+## Teaching & Mentoring
 
-**2025**
-- Presented work at IGARSS 2025
-- Accepted paper on Sentinel-5P super-resolution
+My teaching experience includes mathematics, computer science, artificial intelligence, and related quantitative disciplines at undergraduate and postgraduate levels.
 
-**2024**
-- Started postdoctoral position at University of Orléans
-
-
-
-
-
-
-
+I am particularly interested in:
+- AI and machine learning education
+- Computer vision and image analysis
+- Applied mathematics
+- Data science
+- Interdisciplinary teaching connecting theory and applications
