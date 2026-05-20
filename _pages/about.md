@@ -1,10 +1,8 @@
 ---
 permalink: /
 title: "About"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+author_profile: True
+---
 
 I am currently a postdoctoral researcher at the University of Orléans, working on computational imaging and machine learning methods for hyperspectral image super-resolution and Earth observation.
 
