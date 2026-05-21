@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: ""
-author_profile: false
+author_profile: true
 ---
 My research lies at the intersection of **AI, computer vision, computational imaging, and applied mathematics**, with applications in **medical imaging and Earth observation**.
 
