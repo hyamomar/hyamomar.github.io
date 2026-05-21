@@ -1,5 +1,6 @@
 ---
 permalink: /teaching/
+title: ""
 author_profile: false
 ---
 
