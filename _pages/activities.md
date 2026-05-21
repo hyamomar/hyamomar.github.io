@@ -1,7 +1,7 @@
 ---
 permalink: /activities/
 title: ""
-author_profile: false
+author_profile: true
 ---
 
 ## Awards, Fellowships & Grants
