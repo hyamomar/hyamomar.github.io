@@ -16,13 +16,6 @@ Topics:
 - Self-supervised learning
 - Environmental monitoring
 - Greenhouse gas analysis
-[[Preprint]](https://arxiv.org/abs/2501.17210) [[Self-supervised Preprint]](https://arxiv.org/abs/2604.17652)
-
-Topics:
-- Sentinel-5P super-resolution
-- Self-supervised learning
-- Environmental monitoring
-- Greenhouse gas analysis
 
 ## [MICCAI Challenge — Medical Image Analysis](https://mycetoma.edu.sd/?p=5237)
 **International**
