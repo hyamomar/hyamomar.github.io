@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: ""
-author_profile: false
+author_profile: true
 ---
 
 Selected projects spanning AI, computational imaging, remote sensing, and medical image analysis.
