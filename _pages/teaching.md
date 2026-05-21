@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: ""
-author_profile: false
+author_profile: true
 ---
 
 My teaching experience has primarily focused on **mathematics and quantitative foundations**, with applications to engineering, computing, and emerging AI-related disciplines.
